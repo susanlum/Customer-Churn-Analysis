@@ -40,4 +40,4 @@ The dataset used for model building contained 7,043 observations with 21 variabl
 ## Tools Used
 Python 3.8.10
 
-Packages: pandas, numpy, matplotlib, seaborn, sklearn
+Packages: pandas, numpy, matplotlib, seaborn, sklearn, imblearn
