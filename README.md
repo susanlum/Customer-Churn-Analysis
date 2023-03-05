@@ -36,3 +36,8 @@ The dataset used for model building contained 7,043 observations with 21 variabl
 - **MonthlyCharges**
 - **TotalCharges**
 - **Churn (Target variable)**: Yes & No
+
+## Tools Used
+Python 3.8.10
+
+Packages: pandas, numpy, matplotlib, seaborn, sklearn
