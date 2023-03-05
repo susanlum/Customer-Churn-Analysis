@@ -15,8 +15,8 @@ Dataset link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 The dataset used for model building contained 7,043 observations with 21 variables. The details as follows:-
 
-customerID
-gender: male & female
+- **customerID**
+- **gender**: male & female
 SeniorCitizen: 0 & 1
 Partner: Yes & No
 Dependents: Yes & No
