@@ -29,10 +29,10 @@ The dataset used for model building contained 7,043 observations with 21 variabl
 - **DeviceProtection**: Yes, No & No internet service
 - **TechSupport**: Yes, No & No internet service
 - **StreamingTV**: Yes, No & No internet service
-StreamingMovies: Yes, No & No internet service
-Contract: Month-to-month, one year & two year
-PaperlessBilling: Yes & No
-PaymentMethod: Bank transfer (automatic), Credit card (automatic), Electronic check, Mailed check
-MonthlyCharges
-TotalCharges
-Churn (Target variable): Yes & No
+- **StreamingMovies**: Yes, No & No internet service
+- **Contract**: Month-to-month, one year & two year
+- **PaperlessBilling**: Yes & No
+- **PaymentMethod**: Bank transfer (automatic), Credit card (automatic), Electronic check, Mailed check
+- **MonthlyCharges**
+- **TotalCharges**
+- **Churn (Target variable)**: Yes & No
