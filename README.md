@@ -17,18 +17,18 @@ The dataset used for model building contained 7,043 observations with 21 variabl
 
 - **customerID**
 - **gender**: male & female
-SeniorCitizen: 0 & 1
-Partner: Yes & No
-Dependents: Yes & No
-tenure: by months
-PhoneService: Yes & No
-MultipleLines: Yes, No & No phone service
-InternetService: DSL, Fiber optic & No
-OnlineSecurity: Yes, No & No internet service
-OnlineBackup: Yes, No & No internet service
-DeviceProtection: Yes, No & No internet service
-TechSupport: Yes, No & No internet service
-StreamingTV: Yes, No & No internet service
+- **SeniorCitizen**: 0 & 1
+- **Partner**: Yes & No
+- **Dependents**: Yes & No
+- **tenure**: by months
+- **PhoneService**: Yes & No
+- **MultipleLines**: Yes, No & No phone service
+- **InternetService**: DSL, Fiber optic & No
+- **OnlineSecurity**: Yes, No & No internet service
+- **OnlineBackup**: Yes, No & No internet service
+- **DeviceProtection**: Yes, No & No internet service
+- **TechSupport**: Yes, No & No internet service
+- **StreamingTV**: Yes, No & No internet service
 StreamingMovies: Yes, No & No internet service
 Contract: Month-to-month, one year & two year
 PaperlessBilling: Yes & No
